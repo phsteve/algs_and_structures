@@ -1,3 +1,5 @@
+#Implements a stack that gives constant time access to its minimum
+
 class Stack:
     def __init__(self):
         self.items = []
